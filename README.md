@@ -30,7 +30,7 @@ To run this code, you need Python installed on your machine. This implementation
 Simply run the Python script. It will train the neural network on the XOR dataset for a specified number of epochs and display the predictions for each input.
 
 ```bash
-python xor_neural_network.py
+python neural_network.py
 ```
 
 ## Code Explanation
